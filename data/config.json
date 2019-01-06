@@ -1,0 +1,18 @@
+{
+    "train_data_list": [
+        "/data/train.chunk.01",
+        "/data/train.chunk.02",
+        "/data/train.chunk.03",
+        "/data/train.chunk.04",
+        "/data/train.chunk.05",
+        "/data/train.chunk.06",
+        "/data/train.chunk.07",
+        "/data/train.chunk.08",
+        "/data/train.chunk.09"
+    ],
+    "unigram_hash_size": 150000,
+    "min_word_length": 2,
+    "max_word_length": 30,
+    "max_len": 20
+}
+
