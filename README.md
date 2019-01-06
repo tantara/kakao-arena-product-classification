@@ -6,9 +6,9 @@ Code for '[쇼핑몰 상품 카테고리 분류](https://arena.kakao.com/c/1)'
 
 
 
-**Public Leaderboard**(2018/12/29)
+**Public Leaderboard**(2019/01/07)
 
-![public leaderboard](./docs/20181229-public-leaderboard.png)
+![public leaderboard](./docs/20190107-public-leaderboard.png)
 
 
 
